@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+      "agent": "./3_arcade_agent_with_memory.py:workflow"
+    },
+    "env": ".env"
+  }

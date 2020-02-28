@@ -1,0 +1,9 @@
+venv
+venv_linux
+venv_windows
+__pycache__
+.env
+examples
+.claude
+CLAUDE.md
+.langgraph_api
